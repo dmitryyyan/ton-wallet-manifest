@@ -1,7 +1,9 @@
 {
-    "name": "Buy_time",
-    "description": "TON Wallet connection for Telegram app",
-    "icon": "https://ton.org/download/ton_symbol.png",
-    "categories": ["wallet", "decentralized-finance"]
-  }
-  
+  "name": "Buuuy_time_bot",
+  "description": "TON Wallet connection for Telegram app",
+  "url": "https://your-app-url.example.com",
+  "iconUrl": "https://ton.org/download/ton_symbol.png",
+  "categories": ["wallet", "decentralized-finance"],
+  "termsOfUseUrl": "https://your-app-url.example.com/terms-of-use",
+  "privacyPolicyUrl": "https://your-app-url.example.com/privacy-policy"
+}
